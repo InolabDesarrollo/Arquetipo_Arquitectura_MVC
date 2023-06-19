@@ -9,7 +9,7 @@ using System.Data;
 
 namespace Sol_PuntoVenta.Datos
 {
-    //metodo para traer informacion de la tabla TB_PUNTO_VENTA
+    // metodo para traer informacion de la tabla TB_PUNTO_VENTA
     public class D_Familias
     {
         //Metodo para consultar informacin de la tabla PUNTO DE VENTA
