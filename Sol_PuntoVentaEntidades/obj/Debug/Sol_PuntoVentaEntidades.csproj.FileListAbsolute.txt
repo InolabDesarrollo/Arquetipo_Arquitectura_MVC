@@ -1,0 +1,6 @@
+C:\Users\PC ONE\source\repos\Sol_PuntoVenta_Hotel\Sol_PuntoVenta.Datos\Sol_PuntoVentaEntidades\bin\Debug\Sol_PuntoVentaEntidades.dll
+C:\Users\PC ONE\source\repos\Sol_PuntoVenta_Hotel\Sol_PuntoVenta.Datos\Sol_PuntoVentaEntidades\bin\Debug\Sol_PuntoVentaEntidades.pdb
+C:\Users\PC ONE\source\repos\Sol_PuntoVenta_Hotel\Sol_PuntoVenta.Datos\Sol_PuntoVentaEntidades\obj\Debug\Sol_PuntoVentaEntidades.csproj.AssemblyReference.cache
+C:\Users\PC ONE\source\repos\Sol_PuntoVenta_Hotel\Sol_PuntoVenta.Datos\Sol_PuntoVentaEntidades\obj\Debug\Sol_PuntoVentaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\PC ONE\source\repos\Sol_PuntoVenta_Hotel\Sol_PuntoVenta.Datos\Sol_PuntoVentaEntidades\obj\Debug\Sol_PuntoVentaEntidades.dll
+C:\Users\PC ONE\source\repos\Sol_PuntoVenta_Hotel\Sol_PuntoVenta.Datos\Sol_PuntoVentaEntidades\obj\Debug\Sol_PuntoVentaEntidades.pdb

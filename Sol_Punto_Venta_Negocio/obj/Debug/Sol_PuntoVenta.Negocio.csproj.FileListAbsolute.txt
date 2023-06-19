@@ -1,0 +1,11 @@
+C:\Users\PC ONE\Source\Repos\Sol_PuntoVenta_Hotel\Sol_PuntoVenta.Datos\Sol_Punto_Venta_Negocio\bin\Debug\Sol_Punto_Venta_Negocio.dll
+C:\Users\PC ONE\Source\Repos\Sol_PuntoVenta_Hotel\Sol_PuntoVenta.Datos\Sol_Punto_Venta_Negocio\bin\Debug\Sol_Punto_Venta_Negocio.pdb
+C:\Users\PC ONE\Source\Repos\Sol_PuntoVenta_Hotel\Sol_PuntoVenta.Datos\Sol_Punto_Venta_Negocio\bin\Debug\Sol_PuntoVenta.Datos.dll
+C:\Users\PC ONE\Source\Repos\Sol_PuntoVenta_Hotel\Sol_PuntoVenta.Datos\Sol_Punto_Venta_Negocio\bin\Debug\Sol_PuntoVentaEntidades.dll
+C:\Users\PC ONE\Source\Repos\Sol_PuntoVenta_Hotel\Sol_PuntoVenta.Datos\Sol_Punto_Venta_Negocio\bin\Debug\Sol_PuntoVenta.Datos.pdb
+C:\Users\PC ONE\Source\Repos\Sol_PuntoVenta_Hotel\Sol_PuntoVenta.Datos\Sol_Punto_Venta_Negocio\bin\Debug\Sol_PuntoVentaEntidades.pdb
+C:\Users\PC ONE\Source\Repos\Sol_PuntoVenta_Hotel\Sol_PuntoVenta.Datos\Sol_Punto_Venta_Negocio\obj\Debug\Sol_PuntoVenta.Negocio.csproj.AssemblyReference.cache
+C:\Users\PC ONE\Source\Repos\Sol_PuntoVenta_Hotel\Sol_PuntoVenta.Datos\Sol_Punto_Venta_Negocio\obj\Debug\Sol_PuntoVenta.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\PC ONE\Source\Repos\Sol_PuntoVenta_Hotel\Sol_PuntoVenta.Datos\Sol_Punto_Venta_Negocio\obj\Debug\Sol_PuntoVenta.Negocio.csproj.CopyComplete
+C:\Users\PC ONE\Source\Repos\Sol_PuntoVenta_Hotel\Sol_PuntoVenta.Datos\Sol_Punto_Venta_Negocio\obj\Debug\Sol_Punto_Venta_Negocio.dll
+C:\Users\PC ONE\Source\Repos\Sol_PuntoVenta_Hotel\Sol_PuntoVenta.Datos\Sol_Punto_Venta_Negocio\obj\Debug\Sol_Punto_Venta_Negocio.pdb
